@@ -2,7 +2,9 @@
 
 **Cost:** $2-$22 plus shipping depending on which parts you buy and what you already have at home.
 
-> **WARNING**: You should not attempt this. You will void your warranty and likely break your coffee maker. This involves electrical work on an appliance that plugs into the wall. If you proceed anyway, unplug the machine before any work and accept full responsibility for the outcome.
+> **WARNING**: You should not attempt this. You will void your warranty and likely break your coffee maker. This involves electrical work on an appliance that plugs into the wall. If you proceed anyway, accept full responsibility for the outcome.
+
+# ⚠️ UNPLUG YOUR MACHINE BEFORE STARTING ⚠️
 
 **Built-in safeguards:** The machine has a thermal fuse that will trip if temperatures get dangerously high. The controller may also throw error codes if sensor readings fall outside expected ranges. These won't prevent you from breaking something, but they reduce the risk of fire or serious damage.
 
@@ -78,11 +80,11 @@ Turn the adjustment screw counter-clockwise until you hear a click. That's the 0
 
 Hold the pot with the adjustment screw facing left. Measure resistance between the left pin and the middle pin. It should read close to 0Ω.
 
-![Measuring left to middle pin - reads 3.7Ω](images/step1-left-middle.jpg)
+<img src="images/step1-left-middle.jpg" alt="Measuring left to middle pin - reads 3.7Ω" width="100%">
 
 If you get a reading around 1000Ω instead, measure between the middle and right pin to find the low reading.
 
-![Measuring middle to right pin - reads 945Ω](images/step1-middle-right.jpg)
+<img src="images/step1-middle-right.jpg" alt="Measuring middle to right pin - reads 945Ω" width="100%">
 
 The two pins with the low reading are the ones you'll use. Cut off the pin with the high reading (in this case, the right pin showing 945Ω).
 
@@ -92,13 +94,13 @@ The two pins with the low reading are the ones you'll use. Cut off the pin with 
 
 Cut off the pin that read ~1000Ω. This prevents accidentally wiring to the wrong pin later.
 
-![Cutting off the unused pin](images/step2-cut-pin.jpg)
+<img src="images/step2-cut-pin.jpg" alt="Cutting off the unused pin" width="100%">
 
 ### Step 3: Seal the cut pin (optional)
 
 Put a dab of hot glue on the cut pin to insulate it. Not required but 1% safer.
 
-![Hot glue on the cut pin](images/step3-glue-pin.jpg)
+<img src="images/step3-glue-pin.jpg" alt="Hot glue on the cut pin" width="100%">
 
 ### Step 4: Cut, prep, and strip the NTC probe wire
 
@@ -108,7 +110,7 @@ Slide heat shrink tubing onto both pieces now. It's easier before stripping. Pul
 
 Strip the ends of all four wires. Wire strippers work best but teeth will do.
 
-![Sensor wire cut, stripped, with heat shrink tubing](images/step4-cut-sensor.jpg)
+<img src="images/step4-cut-sensor.jpg" alt="Sensor wire cut, stripped, with heat shrink tubing" width="100%">
 
 ### Step 5: Solder the wires to the potentiometer
 
@@ -116,7 +118,7 @@ Solder one wire to each of the two pins on the potentiometer. Doesn't matter whi
 
 Be careful not to melt the potentiometer. If you're new to soldering, practice on something else first.
 
-![Soldering wires to the potentiometer](images/step5-solder-pot.jpg)
+<img src="images/step5-solder-pot.jpg" alt="Soldering wires to the potentiometer" width="100%">
 
 ### Step 6: Slide up and shrink the heat shrink tubing
 
@@ -124,7 +126,7 @@ Slide the heat shrink tubing over the solder joints and shrink with a heat gun o
 
 **Note:** If you skipped the hot glue in Step 3, now is a good time to do it. The heat from soldering won't disturb it at this point.
 
-![Completed assembly with heat shrink](images/step6-heat-shrink.jpg)
+<img src="images/step6-heat-shrink.jpg" alt="Completed assembly with heat shrink" width="100%">
 
 ### Step 7: Open the machine
 
@@ -154,7 +156,7 @@ As you remove the old NTC probe, thread the new one backwards following it.
 
 Reverse the steps to reassemble, but don't install the back cover yet. You need access to turn the variable resistor to fine tune temperatures.
 
-![Potentiometer accessible from the back](images/step7-pot-installed.jpg)
+<img src="images/step7-pot-installed.jpg" alt="Potentiometer accessible from the back" width="100%">
 
 ### Step 8: Tune the temperature
 
