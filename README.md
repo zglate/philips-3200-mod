@@ -20,6 +20,8 @@ The Philips 3200 series (and related Saeco/Gaggia machines) brews at approximate
 
 This guide adds a variable resistor in series with the NTC thermistor to trick the controller into heating the water hotter. The result: coffee output in the 175-180°F range.
 
+**You could potentially unplug the NTC probe from the system board and avoid most of the steps below by soldering the variable resistor in place... but I didn't want to use a soldering iron anywhere near the expensive machine**
+
 ## Parts Needed
 
 | Part | Quantity | Part Number | Notes |
