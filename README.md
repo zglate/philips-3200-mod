@@ -2,7 +2,7 @@
 
 **Cost:** $2-$22 plus shipping depending on which parts you buy and what you already have at home.
 
-> **WARNING**: You should not attempt this. You will void your warranty and likely break your coffee maker. This involves electrical work on an appliance that plugs into the wall. If you proceed anyway, accept full responsibility for the outcome.
+> **WARNING**: You should not attempt this. You will potentially void your warranty, break your coffee maker and burn down your house. This involves electrical work on an appliance that plugs into the wall. If you proceed anyway, accept full responsibility for the outcome. You will need to descale more frequently and your machine may not last as long if you perform this mod. The coffee will taste different and you may need to change bean types too!
 
 # ⚠️ UNPLUG YOUR MACHINE BEFORE STARTING ⚠️
 
