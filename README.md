@@ -29,7 +29,7 @@ This guide adds a variable resistor in series with the NTC thermistor to trick t
 | Heat Shrink Tubing | Small amount | 1/16" diameter | For insulating solder joints and the unused pot pin. |
 | Instant Read Thermometer | 1 | | For testing output temperature. |
 
-**Note on part numbers:** The potentiometer is Bourns 3296W-1-102LF. The "102" means 1kΩ (10 × 10² ohms). The NTC sensor is Saeco part 421946046921, a 480mm wire assembly that fits Philips EP series machines.
+**Note on part numbers:** The potentiometer is Bourns 3296W-1-102LF. The "102" means 1kΩ (10 × 10² ohms). There are other cheaper variable resistors but this is the best option due to its adjustability and quality. The NTC sensor is Saeco part 421946046921 but you can also buy it as part number 421945058801 (more expensive), a 480mm wire assembly that fits Philips EP series machines.
 
 **About the potentiometer:** Each full turn adds roughly 35Ω. There is no physical stop at the ends. The pot has a clutch that lets you keep turning past the limit without damage. Listen for a click when you reach the end. The first two turns from the 0Ω end are a dead zone with minimal resistance change.
 
