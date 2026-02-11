@@ -4,6 +4,8 @@
 
 > **WARNING**: You should not attempt this. You will potentially void your warranty, break your coffee maker, burn the roof of your mouth and torch your house. This involves electrical work on an appliance that plugs into the wall. If you proceed anyway, accept full responsibility for the outcome. You will need to descale more frequently and your machine may not last as long if you perform this mod. The coffee will taste different and you may need to change bean types too!
 
+This guide is provided for entertainment purposes only. I am not responsible for any damage to your machine, injury, or voided warranty.
+
 # ⚠️ UNPLUG YOUR MACHINE BEFORE STARTING ⚠️
 
 **Built-in safeguards:** The machine has a thermal fuse that will trip if temperatures get dangerously high. The controller may also throw error codes if sensor readings fall outside expected ranges. These won't prevent you from breaking something, but they reduce the risk of fire or serious damage.
